@@ -4,12 +4,10 @@
 
 
 ### **View Decors**
-<p align="center" width="100%">
-    <img  src="images/landing_screen.png?raw=true" width= "200"/>
-</p>
+Decor                      |  Landing Screen           
+:-------------------------:|:-------------------------:
+![](images/landing_screen.png?raw=true)  |  ![](images/landing_screen.png?raw=true) 
 
-
-
-Landing Screen             |  Home Screen             | Details Screen 
-:-------------------------:|:-------------------------:|:-------------------------:
-![](images/landing_screen.png?raw=true)  |  ![](images/home_screen.png?raw=true) | ![](images/details_screen.png?raw=true)
+  Home Screen             | Details Screen 
+:-------------------------:|:-------------------------:
+![](images/home_screen.png?raw=true) | ![](images/details_screen.png?raw=true)
