@@ -4,9 +4,9 @@
 
 
 ### **View Decors**
-Decor                      |  Landing Screen           
+Decor|Landing Screen           
 :-------------------------:|:-------------------------:
-![](images/landing_screen.png?raw=true)  |  ![](images/landing_screen.png?raw=true) 
+![](images/landing_screen.png?raw=true) | ![](images/landing_screen.png?raw=true) 
 
   Home Screen             | Details Screen 
 :-------------------------:|:-------------------------:
