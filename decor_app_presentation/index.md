@@ -4,7 +4,10 @@
 
 
 ### **View Decors**
-<img src="images/landing_screen.png?raw=true" width= "200"/>
+<p align="center" width="100%">
+    <img  src="images/landing_screen.png?raw=true" width= "200"/>
+</p>
+
 
 
 Landing Screen             |  Home Screen             | Details Screen 
