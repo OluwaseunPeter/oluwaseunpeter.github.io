@@ -4,7 +4,8 @@
 
 
 ### **View Decors**
-Decor|Landing Screen           
+
+  Decor Screen             | Landing Screen 
 :-------------------------:|:-------------------------:
 ![](images/landing_screen.png?raw=true) | ![](images/landing_screen.png?raw=true) 
 
